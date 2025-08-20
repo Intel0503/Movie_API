@@ -1,12 +1,30 @@
-# React + Vite
+![alt text](public/hehe.png)
+🎬 Movie List App (React + Vite + TMDB API)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React app built with Vite that lets you browse movies, view trending lists, and search titles using The Movie Database (TMDB) API.
+It also uses icons and styled components to make the UI clean and modern. 🚀
 
-Currently, two official plugins are available:
+⚡ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔥 Trending Movies – fetches the most popular movies from TMDB.
 
-## Expanding the ESLint configuration
+🔎 Search Functionality – look up movies by title.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🖼️ Movie Posters – displays poster images with TMDB image API.
+
+❤️ Icons – added using Lucide React
+(or FontAwesome/React Icons).
+
+⚡ Built with React + Vite for fast development.
+
+🛠️ Tech Stack
+
+React 18 (frontend framework)
+
+Vite (bundler, super fast HMR)
+
+TMDB API (movie data)
+
+Lucide React / React Icons (icons)
+
+TailwindCSS (optional, for styling)
